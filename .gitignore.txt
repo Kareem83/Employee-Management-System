@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# React
+node_modules/
+build/
+
+# Environment
+.env
+
+# Logs
+*.log

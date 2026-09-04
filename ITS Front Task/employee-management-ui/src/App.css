@@ -1,0 +1,38 @@
+body {
+    background-color: #f1f3f5;
+}
+
+
+.app-container {
+    max-width: 1100px;
+    margin: auto;
+}
+
+
+.card {
+    border-radius: 15px;
+    border: none;
+}
+
+
+h1 {
+    font-weight: 700;
+    color: #212529;
+}
+
+
+table {
+    background-color: white;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+
+.btn {
+    border-radius: 8px;
+}
+
+
+hr {
+    margin: 30px 0;
+}
